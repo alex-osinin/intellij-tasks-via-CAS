@@ -1,5 +1,5 @@
 <idea-plugin>
-    <id>com.aosinin.intellij.tasks.cas</id>
+    <id>com.aosinin.plugin.tasks.cas</id>
     <name>Tasks via CAS</name>
     <version>1.0.0</version>
     <category>Other Tools</category>
