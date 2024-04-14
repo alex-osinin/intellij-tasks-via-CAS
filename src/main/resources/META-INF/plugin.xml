@@ -1,7 +1,7 @@
 <idea-plugin>
     <id>com.aosinin.plugin.tasks.cas</id>
     <name>Tasks via CAS</name>
-    <version>1.1.0</version>
+    <version>1.1.1</version>
     <category>Other Tools</category>
     <vendor email="osinin.dev@gmail.com" url="https://github.com/alex-osinin">Alex Osinin</vendor>
 
