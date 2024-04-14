@@ -8,7 +8,7 @@
     <!-- Description of the plugin displayed on the Plugin Page and IDE Plugin Manager.
          Simple HTML elements (text formatting, paragraphs, and lists) can be added inside of <![CDATA[ ]]> tag -->
     <description><![CDATA[
-        Addition to the built-in Task Management plugin (for Generic server) for authorization using old versions of CAS.
+        Addition to the built-in Task Management plugin (for Generic server) for authorization using old versions of CAS (Central Authentication Service).
     ]]></description>
 
     <!-- Product and plugin compatibility requirements-->
