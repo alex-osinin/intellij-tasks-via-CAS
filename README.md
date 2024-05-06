@@ -1,7 +1,7 @@
 # tasks-plugin-for-CAS
 
-[![Version](https://img.shields.io/jetbrains/plugin/v/PLUGIN_ID.svg)](https://plugins.jetbrains.com/plugin/com.aosinin.plugin.tasks.cas)
-[![Downloads](https://img.shields.io/jetbrains/plugin/d/PLUGIN_ID.svg)](https://plugins.jetbrains.com/plugin/com.aosinin.plugin.tasks.cas)
+[![Version](https://img.shields.io/jetbrains/plugin/v/23655.svg)](https://plugins.jetbrains.com/plugin/com.aosinin.plugin.tasks.cas)
+[![Downloads](https://img.shields.io/jetbrains/plugin/d/23655.svg)](https://plugins.jetbrains.com/plugin/com.aosinin.plugin.tasks.cas)
 
 A plugin for IDE based on the IntelliJ platform adds the ability to log
 in to bugtrackers (YouTrack, Jira, Redmine, etc.) via [CAS](https://apereo.github.io/cas).
